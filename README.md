@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**Pola2505/Pola2505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Sandra Popielarczyk 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+I am a Front-End Developer with a passion for creating responsive and interactive web applications. I specialize in HTML, CSS, JavaScript, and React.
+
+## Skills & Technologies
+- HTML
+- CSS / Sass / Tailwind
+- JavaScript / React
+- Git / GitHub
+
+## Projects
+- [Project 1](https://pola2505.github.io/Proyecto2-GeneradorDeMemes/)
+- [Project 2](https://pola2505.github.io/PF-Sandra.Popielaraczyk/)
+
+## Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/sandra-popielarczyk/)
+- [Portfolio](https://pola2505.github.io/Proyecto1-Portafolio/)
+
+
+
+- 🔭 I’m currently working on a web application for tracking my finances, so stay tuned!
+- 🌱 I’m currently finishing my front-end career in ADA ITW, aspiring also to start with back end immediately ! 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fact: as I child I loved to spend a whole day in front of the computer and play with the code from forums that used to be very famous at that time ( I also created one ) but not until I got older and moved to another country I realized that programming is the thing that inspires me and fascinates me, and the thing that the learning process never stops makes me even more excited...
+
