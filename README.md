@@ -3,7 +3,13 @@
 
 Welcome to my GitHub profile!
 
-I am a Front-End Developer with a passion for creating responsive and interactive web applications. I specialize in HTML, CSS, JavaScript, and React.
+Transforming complexity into clarity through data. 
+
+I’ve spent the past 6 years working as a Data Analyst, helping teams make smarter decisions by translating raw data into clear, meaningful insights. I'm confident working with SQL, Excel, and data visualization tools like Power BI, Looker, Quicksight or Tableau. I also use Python and am currently focused on becoming more professional with it to handle more advanced analysis and automation tasks with Pandas, Jupyter, Matplotlib and Seaborn mostly.
+
+I’ve always loved logic and solving problems - it’s what drew me to data in the first place. My passion for technology and programming drove me to study Python and its applications in data analysis and IA.
+
+I'm driven by the conviction that data, when expertly leveraged, holds incredible power. My passion lies in transforming complex information into clear, actionable insights, empowering others to make a real difference, and streamlining operations through data automation.
 
 ## Skills & Technologies
 - HTML
